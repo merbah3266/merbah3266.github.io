@@ -100,3 +100,12 @@ p {
 .button svg {
   fill: #1e3c72;
 }
+.image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
