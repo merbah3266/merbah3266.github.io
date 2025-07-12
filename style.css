@@ -61,13 +61,14 @@ p {
   font-size: 1rem;
   line-height: 1.5;
   color: #e0e0e0;
+  margin-top: 1rem;
 }
 
 .button {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  margin-top: 1.5rem;
+  margin-top: 1rem;
   padding: 0.75rem 2rem;
   font-size: 1rem;
   font-weight: bold;
